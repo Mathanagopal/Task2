@@ -1,3 +1,4 @@
+//Compare two JSON have the same Properties
 var obj1 = {"name":"Mathan","age":36};
 var obj2 = {"age":36,"name":"Mathan"};
 
